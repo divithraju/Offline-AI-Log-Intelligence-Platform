@@ -60,4 +60,4 @@ ElasticSearch integration
 Divith Raju
 B.Tech – Artificial Intelligence & Data Science
 
-Cloud + on-prem hybrid deployment
+
