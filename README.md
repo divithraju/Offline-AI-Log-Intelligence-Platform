@@ -159,7 +159,6 @@ http://localhost:3000
 ✅ Fully **offline & cost-free**
 ✅ Mirrors real **SaaS backend architecture**
 ✅ Clear separation of concerns
-✅ Interview-ready project with system design depth
 
 ---
 
